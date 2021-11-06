@@ -1,4 +1,4 @@
-0939111111|Nguyễn Văn A
-0939111112|Nguyễn Văn B
-0939111113|Nguyễn Văn C
-0939111113|Nguyễn Văn D
+Nguyễn Văn A-0939111111
+Nguyễn Văn B-0939111112
+Nguyễn Văn C-0939111113
+Nguyễn Văn D-0939111113
